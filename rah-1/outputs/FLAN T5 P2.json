@@ -1,0 +1,812 @@
+[
+  {
+    "paper_id": "P062",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. A cross-modal method for estimating the equivariance properties of large pre-trained models 2. The author's purpose is to describe the adaptation of a large pretrained model to new tasks 3. The authors are addressing the issue of the interoperability of model outputs with simulated inputs"
+  },
+  {
+    "paper_id": "P126",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1.  2016 Transactions on Machine Learning Research. All rights reserved. 2. A new, efficient, and unbiased approach to estimating causal effects of a treatment. 3. The TMLR conference will be held in San Francisco in October 2014."
+  },
+  {
+    "paper_id": "P068",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "1. The paper's method and results align with the conference' s focus areas. 2. The importance of the research contribution to the field 3. The purpose of this work is to enhance detection performance, reduce transmission costs, and handle temporal misalignment effectively."
+  },
+  {
+    "paper_id": "P008",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. Optimized Transfer Learning with Equivariant Pretrained Models 2. The significance of the research contribution to the field 3. It is a good fit for NeurIPS"
+  },
+  {
+    "paper_id": "P064",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Flow-Based Feature Fusion for Collaborative 3D Object Detection 2. The purpose of this paper is to empower open-source large language models (LLMs) such as LLaMA, Vicuna, and OPT to effectively utilize multi-modal tools for tasks involving visual comprehension and image generation 3. This paper applies to the Computer Vision and Pattern Recognition conference."
+  },
+  {
+    "paper_id": "P121",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "1. What is the purpose of this paper? 2. What can it do to improve the long-term performance and adaptability of RL agents in dynamic environments 3. Why this work should be accepted at the KDD conference."
+  },
+  {
+    "paper_id": "P018",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "1. Enhancing Deep Reinforcement Learning with Plasticity Mechanisms 2. It is a potential paper for the KDD Conference. 3. It will be able to provide an answer to the plasticity loss in deep reinforcement learning agents."
+  },
+  {
+    "paper_id": "P024",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "1. The paper's methodological and findings are aligned with the conference' s focus areas and relevance to the field. 2. The authors acknowledge that the authors have done some work on \"fingerprint-only backdoor attacks\" in machine learning, which include introducing FLIP (Flipping Labels to Inject Poison), a novel label- only back door attack mechanism designed to exploit vulnerabilit... 3. It is highly relevant to informatics and machine science."
+  },
+  {
+    "paper_id": "P116",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "1. Improving Random Forests through Random Splitting 2. The paper's purpose is to improve the accuracy and scalability of decision tree algorithms 3. The purpose of the paper is a trade-off between the simplicity of greedy algorithms and the accurateness of optimal decision trees 4. It is the purpose to explore broader range of potential splits at each node 5. This paper can be used for KDD conference. 6. The main purpose will be to enhance the ability of search algorithms to detect and select the best ranking nodes in supervised learning systems. 7. The results will improve both the sensitivity and accuracy of algorithm development. 8. The authors' research is considered to be based on the top k features and are in"
+  },
+  {
+    "paper_id": "P090",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Equivariant fine-tuning of large pretrained models 2. The importance of the research contribution to the field 3. This work is fit for the TMLR conference."
+  },
+  {
+    "paper_id": "P041",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P016",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P038",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. What's next for the field? 2. What are the limitations of the paper 3. Why is this paper appropriate for CVPR?"
+  },
+  {
+    "paper_id": "P081",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P132",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. A new approach to achieving the elusive 'perfect crumb' in sourdough bread 2. The significance of the research contribution to the field 3. A specific conference is the most appropriate venue for this work"
+  },
+  {
+    "paper_id": "P130",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. A BERT-based study of humanoid punchlines 2. The impact of robot stand-up comedy on employee morale 3. CVPR Conference"
+  },
+  {
+    "paper_id": "P078",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P022",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P026",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The aim of this paper is to explore the unconventional application of Generative Adversarial Networks (GANs) in translating whale song into hypnotic trance music. 2. The significance of the research contribution to the field 3. The purpose of a specific conference is the most appropriate venue for this work."
+  },
+  {
+    "paper_id": "P033",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. Transition-based AMR parsing 2. Meaningful contribution to the field 3. It is an important conference for learning natural language processing."
+  },
+  {
+    "paper_id": "P125",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. A framework for commonsense reasoning 2. The relevance of the work to the field 3. The possibility that this work can be used to evaluate linguistic models"
+  },
+  {
+    "paper_id": "P133",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. Discontinuous Constituent Parsing as Sequence Labeling Abstract This paper reduces discontinuous parsting to sequence labeling. It first shows that existing reductions for constituent parses as labelling do not support discontinuities. Second, it fills this gap and proposes to encode tree discontinuity as nearly ordered permutations of the input sequence. Third, and it studies whether such discontinuously representations are learnable. The experiments show that despite the architectural simplicity, u..."
+  },
+  {
+    "paper_id": "P028",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. Why the paper is suitably suited for the EMNLP conference 2. The paper's methodology and findings align with the conference' s focus areas 3. Because the papers focus on a wide range of syntactic contexts."
+  },
+  {
+    "paper_id": "P118",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. DSDS: a cross-lingual neural part-of-speech tagger that learns from disparate sources of distant supervision, and realistically scales to hundreds of low- resource languages 2. The paper is suitable for the CSX conference. 3. It is based on LSTM architecture, enables res..."
+  },
+  {
+    "paper_id": "P048",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P039",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P069",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P070",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P077",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P134",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P047",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P027",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. What is the purpose of this paper? 2. What challenges and opportunities are addressed? 3. Why would this work be the best fit for EMNLP conference?"
+  },
+  {
+    "paper_id": "P129",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P105",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P043",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P036",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P032",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P073",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P097",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P086",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P094",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P128",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. http://e-mnp.org/pub/en/em/content/doc/view/1/dd-utt - end-to-end neural discourse deixis resolution in dialogue 2. dr-ult is a model for the task of end to end discourse dexts resolution. 3. This paper is appropriate for EMNLP conference."
+  },
+  {
+    "paper_id": "P104",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. NeurIPS conference 2. It's the right conference for a research paper 3. Neureps aims to improve logical consistency across test inputs. 4. We propose _consistency correction throug 'consistent correction' that improves consistency in pre-trained language models."
+  },
+  {
+    "paper_id": "P031",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Introduction 2. Meaningful impact 3. The relevance of the research is to the field 4. CVPR conference 5. The purpose of this work is for it to explain how Hate Speech detection can be improved by using graph neural networks 6. It is a recursive analysis of hate speech that is applied to images and data on grammatical features 7. This paper is suitable for CVPCR conference. 8. To address the need to address and improve the existing hate detection model. 9. To optimize the use of graph neural networks. 10. To understand the usefulness of GNNs in the detection of Hater speech."
+  },
+  {
+    "paper_id": "P102",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. A Large-Scale Car Dataset for Fine-Grained Categorization and Verification Abstract 2. The relevance of the research contribution to the field 3. We present our on-going effort in collecting a large-scale dataset, ..."
+  },
+  {
+    "paper_id": "P002",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P080",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. Large language models (LLMs) represent a promising, but controversial, tool in aiding scientific peer review 2. The significance of the research contribution to the field 3. This study evaluates the usefulness of LLMs in comparing paper submissions against submission standards 4. It is the only paper in the EMNLP conference that is open to review."
+  },
+  {
+    "paper_id": "P100",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P053",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P023",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. The RLHS is a conference focusing on reversing hierarchies and its applications in learning and neural networks and artificial intelligence 3. The paper is an important contribution to the field of neural information processing systems. 4. The Reverse Hierarchy Model for Predicting Eye Fixations is the best choice for this research paper. 5. The aim of this paper was to develop s"
+  },
+  {
+    "paper_id": "P056",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P066",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. Fast Vocabulary Transfer for Language Model Compression 2. The authors' approach to the problem is applicable to all aspects of machine learning, neural networks, and artificial intelligence. 3. The proposed method is a powerful tool for language model compression. 4. It is the first to use vocabulary transfer in modeling and it is highly relevant to NeurIPS. 5. NeuronsIPS is an international conference devoted to advanced machine-learning and neural network applications. 6. The method of vocabulary translation is widely used in language modeling for the purpose of improving model performance and size reduction. 7. This method has been validated in many applications, including neural net classification, linguistics, machine language analysis, speech recognition, computer vision, multimedia knowledge, social sciences"
+  },
+  {
+    "paper_id": "P096",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P119",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P075",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Equivariant Adaptation of Large Pretrained Models 2. The significance of the research contribution to the field 3. It is a paper that is suitable for the CVPR conference."
+  },
+  {
+    "paper_id": "P050",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. a case study of natural language inference 2. recurrent and attention-based neural models 3. the field's focus areas 4. The paper is suitable for the EMNLP Conference."
+  },
+  {
+    "paper_id": "P074",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. It is suitable for CVPR conference 2. It represents a contribution to the field 3. It has been done in the past and has done well in CVP."
+  },
+  {
+    "paper_id": "P007",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. Joint Syntacto-Discourse Parsing and the Synthactochodisorder Treebank 2. The significance of the research contribution to the field 3. This paper is a good choice for EMNLP conference."
+  },
+  {
+    "paper_id": "P045",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The paper is designed to be a synthesis of the three fundamental models of visual foundation learning and the method of AM-RADIO (Agglomerative Vision Foundation Model) to reduce all domains containing the same data set. 2. The papers purpose is to describe the ways that visual image processing can be applied to computer vision and pattern recognition 3. It will be the first paper to examine the potential application of multiple-teacher distillation to the visual recognition system."
+  },
+  {
+    "paper_id": "P013",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. The paper provides an overview of neural classification in the language domain, and the implications for deep neural networks. 2. The authors are interested in exploring the role of language in deep learning. 3. NeurIPS will focus on deep net neural neural models, in particular the neural network classifiers that they evaluate."
+  },
+  {
+    "paper_id": "P060",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Background Modeling Using Adaptive Pixelwise Kernel Variances in a Hybrid Feature Space Abstract 2. The relevance of the research contribution to the field 3. It is relevant for the TMLR conference"
+  },
+  {
+    "paper_id": "P110",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. LIDA: Lightweight Interactive Dialogue Annotator 2. The purpose of the paper 3. This paper is suitable for the CVPR conference."
+  },
+  {
+    "paper_id": "P087",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. A subspace constraint method of Feature Tracking. 2. A framework for joint learning. 3. NeurIPS."
+  },
+  {
+    "paper_id": "P005",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. What is the purpose of this paper? 2. Why is it appropriate? 3. What does it mean for the field?"
+  },
+  {
+    "paper_id": "P067",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. What the paper does and why it is suitable for CVPR 2. What it does not do 3. Why it's the best choice for the conference"
+  },
+  {
+    "paper_id": "P017",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The paper was presented at the 2016 CVPR conference, and was accepted by the editors. 2. The authors' methodological and scientific approach aligns with the conference's focus areas. 3. The author'd like to present their paper at this conference in the next few days."
+  },
+  {
+    "paper_id": "P029",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. OpenOmni: An Open-Source Multimodal Systems 2. The relevance of the research contribution to the field 3. It is a timely and timely publication."
+  },
+  {
+    "paper_id": "P051",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. It will be of interest to CVPR researchers and applications in a variety of areas. 2. It provides optimum results for batch DA. 3. This paper is to be considered for CVP conference."
+  },
+  {
+    "paper_id": "P071",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. This paper investigates the role of fillers within text-based representations of speech transcripts. 2. The significance of the research contribution to the field. 3. We demonstrate that these elements, such as \"um\" or \"uh,\" when incorporated using deep contextualized embeddings, enhance the modeling of spoken language."
+  },
+  {
+    "paper_id": "P108",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Phonological typology 2. The importance of the research contribution to the field 3. The need to adapt speech technologies to low-resource languages"
+  },
+  {
+    "paper_id": "P123",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. Using emoji to acquire versatile representations 2. It is a timely conference, as EMNLP is the main focus of the conference. 3. Despite the limitations of manually labeled data, this work is useful in the context of social media sentiment analysis."
+  },
+  {
+    "paper_id": "P001",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. This paper addresses the need for enhanced drone tracking and positioning, and is suitable for CVPR. 2. It aims to improve the accuracy and quality of images. 3. It is based on a case study of the method of clustering."
+  },
+  {
+    "paper_id": "P020",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. Deep Learning for 3D Protein Structure Prediction in Drug Discovery 2. The significance of the research contribution to the field 3. The purpose of NeurIPS Conference is to bring together scientists and engineers from the broader field of machine learning and neural networks to discuss advances in drug discovery."
+  },
+  {
+    "paper_id": "P003",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The paper is an open access article that will be published in the journal Computer Vision and Pattern Recognition. 2. The author is a biomedical engineer and has applied to the field of computer vision. 3. The purpose of the paper was to address the problem of why we can't find any financial market simulations. 4. The authors want to provide unbiased opinions on the effectiveness of explainable reinforcement learning in financial markets. 5. The reason is that the authors have rediscovered the question of how to incorporate explainably reinforcement-learning with financial simulation. 6. The evidence presented in this paper shows that it is highly relevant for the conference."
+  },
+  {
+    "paper_id": "P098",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. It aligns with the conference's focus areas 2. It is a novel approach to mitigating climate change by utilizing blockchain technology 3. It would be suited for the CVPR Conference."
+  },
+  {
+    "paper_id": "P124",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Predictive maintenance in smart grids Using Time-Series Analysis: A Multidisciplinary Approach to Enhance Grid Reliability 2. The relevance of the research 3. The purpose of this paper is to provide a comprehensive overview of predictive maintenance and its application to the field."
+  },
+  {
+    "paper_id": "P035",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Game-Theoretic Optimization for Crowdsourced Delivery Networks 2. A Novel Approach to Harnessing the Power of the Crowdin... 3. Because it is a burgeoning field of research that seeks to improve the efficiency and reliability of delivery systems by leveraging the power of crowdsourced labor."
+  },
+  {
+    "paper_id": "P106",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. It aligns with the conference's focus areas 2. It is a novel approach to brain-computer inter- face design 3. It shows that future generations of artificial intelligence and artificial language technologies have mastered the art of recognizing human faces and using these new technologies to create aesthetically pleasing, interactive, and intuitive devices."
+  },
+  {
+    "paper_id": "P076",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The paper is a novel approach to redefining the future of mobility, and it is appropriate for the CVPR conference. 2. The research contribution to the field is important, with the increasing awareness of environmental degradation and the need for efficient transportation systems. 3. It represents synthesis of neo- lectional research, applications, or research findings that will be relevant to future mobility. 4. The authors of this paper are based in Switzerland. 5. Ideally the conference will have entitles to conference proceedings. 6. The author's objective is to present scholarly contributions in the fields of computer vision, deep learning, machine learning for visual tasks, image processing innovations, vision and image recognition. 7. The purpose of"
+  },
+  {
+    "paper_id": "P107",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Providing insights into the context of weather forecasting 2. Creating a new form of prediction 3. The need to advance technology in real-time weather prediction 4. Using deep learning techniques to predict weather better 5. Introducing new techniques 6. Identifying and addressing the potential of the new methods 7. Developing unified forecasts 8. Taking advantage of existing methods 9. Considering the limitations of both methods 10. Obtaining unbiased and objective weather data for real time forecasters 11. Increasing accuracy and reliability of forecast data 12. Getting the right data to use for weather analysis 13. Adding new models to realtime forecast accuracy 14. Putting new technology to practice in predicting weather and weather patterns 15. Feature-rich data in weather"
+  },
+  {
+    "paper_id": "P006",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P037",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. A Chinese Span-Extraction Dataset for Machine Reading Comprehension 2. The impact of the work on the field. 3. The need for this work in the context of CVPR."
+  },
+  {
+    "paper_id": "P120",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. This paper is an open-source toolkit designed for the examination of activations within deep neural networks 2. The relevance of the research contribution to the field 3. It is a good fit for CVPR."
+  },
+  {
+    "paper_id": "P088",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. The work is based on the approach of analyzing neural networks with a view to identifying functional modules as the identification of functional units with similae modularity. 2. The paper's purpose is to provide unbiased evaluation of the complexity of modular functions in neural systems and its relevance to the field of neural information processing systems. 3. The purpose of this paper is for addressing the issue of how modular systems are used in the detection of learning and applying knowledge."
+  },
+  {
+    "paper_id": "P099",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Enhancing LSTM-based Video Narration Through Text-Derived Linguistic Insights 2. The relevance of the research to the field 3. The potential to enhance the generation of natural language video descriptions"
+  },
+  {
+    "paper_id": "P065",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. It's an important paper 2. The importance of the research contribution 3. It has a good impact on the field 4. The purpose of this paper is to provide recursive inpainting for computer vision. 5. This paper will be considered appropriate for the CVCPR conference. 6. The paper should be able to be used in parallel with the other paper from the following conferences:"
+  },
+  {
+    "paper_id": "P091",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. Named Entity Recognition for Call Center Transcripts to Ensure Privacy Law Compliance 2. The importance of the research contribution to the field 3. This paper is a timely work and is appropriate for EMNLP conference."
+  },
+  {
+    "paper_id": "P015",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Why this paper is a good fit for CVPR 2. The authors' research contribution to the field is important 3. It is an important event that will expose the reader to trajectory forecasting and 3D perception for autonomous driving."
+  },
+  {
+    "paper_id": "P092",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. The method of enhancing image compression 2. The impact of the method on the field of machine learning 3. The need to attend the TMLR Conference"
+  },
+  {
+    "paper_id": "P111",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. Leveraging Deep Learning for Enhanced Bayesian Optimization in Scientific Domains with Complex Structures 2. The relevance of the research contribution to the field 3. The conference is a conference in neural information processing systems."
+  },
+  {
+    "paper_id": "P044",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. A Comprehensive Multimodal Dataset for Climate-Conscious Prediction of Crop Yields 2. The importance of the research contribution to the field 3. It would be a great opportunity to present interdisciplinary research."
+  },
+  {
+    "paper_id": "P117",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. Rapid Image Annotation Through Zero-Shot Learning 2. The significance of the research contribution to the field 3. Because it will be the first paper to be presented at the EMNLP conference"
+  },
+  {
+    "paper_id": "P025",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The purpose of this paper is to improve the accuracy and scope of foreground categories within images of scenes. 2. The paper's methodology and findings align with the conference'' s focus areas 3. The research contributes to the field and enhances the precision and expands its scope."
+  },
+  {
+    "paper_id": "P011",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The paper addresses the need for a special focus conference and is suitable for CVPR. 2. The results of the paper's characterization of heterogeneous treatment effects and its application to online controlled experiments are important for the future of computer vision and pattern recognition 3. The present focus of this paper is on the evaluation of human treatment and product release effectiveness."
+  },
+  {
+    "paper_id": "P034",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Enhanced Normalization in Vision Transformers: The Dual PatchNorm Approach 2. Its relevance to the field 3. It's a possibility for TMLR"
+  },
+  {
+    "paper_id": "P009",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. The paper is suitable for the TMLR conference 2. The method of flexible online aggregation is well-established 3. This work is a solid contribution to the field of machine learning"
+  },
+  {
+    "paper_id": "P127",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. The paper focuses on the potential misuse of machine learning and its impact on personal privacy 2. The need for collaboration between machine-learning experts and human-computer interaction researchers 3. It is a good fit for the NeurIPS conference"
+  },
+  {
+    "paper_id": "P093",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Premature Termination Strategy for Deep Image Prior Abstract 2. The significance of the research contribution to the field 3. Aim to present the results of this research paper at a conference."
+  },
+  {
+    "paper_id": "P030",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The paper's methodology and findings align with the conference''S focus areas 2. The importance of the research contribution to the field 3. Because the paper is an abstract."
+  },
+  {
+    "paper_id": "P019",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The paper's purpose is to evaluate the ability of a DAT implemented in India to confirm adherence to various medications. 2. The author' s contribution to the field 3. It is likely to be accepted at the TB-Teterculosis Conference in the fall of 2015."
+  },
+  {
+    "paper_id": "P122",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. How the paper is presented 2. The relevance of the research to the field 3. It is a good fit for the CVPR conference"
+  },
+  {
+    "paper_id": "P021",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The relevance of the paper's findings to the conference'S focus areas: Computer Vision and Pattern Recognition 2. The importance of this paper to research on computer vision 3. The conference is a meeting of computer scientists, vision engineers, and computer technicians."
+  },
+  {
+    "paper_id": "P040",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. A 3D Convolutional Neural Network Approach for Sustainable Architectural Design through Computational Fluid Dynamics Simulation and Reverse Design Workflow 2. The paper is designed to provide instant feedback, enabling real-time iterations during the initial phase of the design. 3. It is a good paper to present at the CARP conference."
+  },
+  {
+    "paper_id": "P082",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. It is a grammatically correct, theoretically based approach to variational learning with disentanglement. 2. It relates to the broader field of machine learning 3. The research presented in this paper is an elaboration of t-ray methods for variation learning. 4. The paper tries to provide comprehensi- ble evidence of the use of disentangled Python to model variation. 5. Compared to previous work, it focuses on deep empirical validation. 6. The method is efficient and has been compared to several methods and is more reliable than the current method in its design. 7. This paper represents ... 8. It has the potential to be incorporated into the existing method to improve the"
+  },
+  {
+    "paper_id": "P085",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. The present methods for quantifying the level of privacy protection offered by tabular synthetic data (SD) are very different from the standard methods used in the previous paper. 2. The authors propose a standard approach which enables the development of standard SD privacy standards in interdisciplinary discourse. 3. To meet the TMLR Conference's core focus, this paper is suited for the TML conference."
+  },
+  {
+    "paper_id": "P010",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Enhanced Reinforcement Learning for Recommender Systems: Maximizing Sample Efficiency and Minimising Variance 2. The relevance of the research to the field 3. This work is the only paper that has been accepted for the TMLR Conference."
+  },
+  {
+    "paper_id": "P046",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. Symbiotic Adversarial Robustness for Graph Neural Networks: Combining Poisoning and Evasion Abstract 2. The relevance of the research contribution to the field 3. The research contributes to machine learning, neural networks, and artificial intelligence advances"
+  },
+  {
+    "paper_id": "P083",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. Disparate Citation Patterns Between Chinese and American Research Communities at a Unified Venue 2. The significance of the research contribution to the field 3. We construct citation graphs, compare it to European connectivity, and discuss both the causes and consequences of this separation."
+  },
+  {
+    "paper_id": "P063",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. Representation Transferability in Neural Networks Across Datasets and Tasks 2. The relevance of the research contribution to the field 3. The purpose of this paper is to analyze deep neural networks and neural network representations."
+  },
+  {
+    "paper_id": "P115",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. An Examination of Expansive Multimodal Models: Insights from an Educational Overview 2. The relevance of the research contribution to the field 3. It is relevant to CVPR."
+  },
+  {
+    "paper_id": "P079",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. OmniPrint: A Configurable Generator for Printed Characters 2. The authors' work is a synthesis of multiple methods and data. 3. Its use in generating printed characters is very useful for deep learning and visual processing."
+  },
+  {
+    "paper_id": "P135",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. The purpose of the paper is to examine distributed stochastic variational inequalities within unbounded domains. 2. It is an empirical validation paper. 3. The paper addresses the broad machine learning research with emphasis on thorough empirical validating."
+  },
+  {
+    "paper_id": "P084",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. An Empirical Study of the \"Hard-Won Lesson\": Two Decades of Research Insights Abstract 2. The importance of this research contribution to the field 3. This paper is appropriate for CVPR conference."
+  },
+  {
+    "paper_id": "P103",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is of interest to computer vision and pattern recognition researchers. The paper has been accepted to the CVCPR Conference."
+  },
+  {
+    "paper_id": "P042",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. The paper is an empirical evaluation of neural networks and is suitable for TMLR conference. 2. The authors' approach is rigorous and converges with existing methods and features of similarity evaluation, enabling the field to be further integrated into the neural network architecture. 3. The aim of the paper was to introduce a new semantic similarness metric for image registration evaluation. 4. The author's approach to evaluation is highly robust. 5. The approach focuses on learning-based registration models, and utilizes neural data. 6. The proposed semantic symmetric is based on deep learning. 7. The original SMART model was developed for the evaluation and evaluation- ing of human-to-human neural models. 8."
+  },
+  {
+    "paper_id": "P131",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. Enhancing Disentanglement through Learned Aggregation of Convolutional Feature Maps: A Study on the 2019 Disentangled Challenge 2. The significance of the research contribution to the field 3. This work is suitable for NeurIPS conference."
+  },
+  {
+    "paper_id": "P109",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "1. Multimodal Deep Ensemble for Hateful Meme Identification 2. It is a potential conference for the EMNLP conference 3. The proposed model demonstrates superior performance compared to the established be- ned Transformer model"
+  },
+  {
+    "paper_id": "P055",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The paper was a good fit for CVPR's focus. 2. The broader impact statement was the best option. 3. The focus of the paper is on enabling the introduction of generative software in the future. 4. The author wrote the abstract of this paper and argues that it is suited for the conference. 5. The abstract is about how the author' s initial experiences prompted the review of an abstract. 6. It was very critical for this research to be taken seriously and to make measurable improvements to the field. 7. It is an important contribution to advancing the scientific knowledge of AI and deep learning in computer vision and pattern recognition. 8. This paper provides reassurance to AI researchers that their work is important"
+  },
+  {
+    "paper_id": "P057",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. A Collaborative Painting Experience: Human-Machine Interaction on Canvas 2. The paper's approach to human-machine interaction in the visual arts is suitable for the CVPR conference. 3. To discuss the potential of this work in a new field of visual art, consider this paper:"
+  },
+  {
+    "paper_id": "P052",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Genetic programming 2. The significance of the research contribution 3. The TCLR conference"
+  },
+  {
+    "paper_id": "P101",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. a convolutional LSTM Network Approach 2. The relevance of the research contribution to the field 3. Identifying disease characteristics from medical imaging data using 3D volumes 4. The need for this work in CVPR."
+  },
+  {
+    "paper_id": "P112",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. What is the purpose of the paper? 2. What's the relevance of this research? 3. Why is it suited to the conference?"
+  },
+  {
+    "paper_id": "P054",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. 3D Food Modeling from Images: Advancements in Physically-Aware Reconstruction 2. The importance of the research contribution to the field 3. Because the paper is an abstract"
+  },
+  {
+    "paper_id": "P095",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Achieving sample-Efficient Minecraft Gameplay through Hierarchical Reinforcement Learning 2. The importance of the research contribution to the field 3. The purpose of this paper is to improve the game play of Minecraft"
+  },
+  {
+    "paper_id": "P114",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. An Empathetic AI Painter: A System for Computational Creativity Through Embodied Conversational Interaction 2. The purpose of the paper is to develop a model of human creativity in empathetic conversation, focusing on the integration of per- sonality and emotions into the artistic process. 3. This paper presents an investigation into computational modeling of he artistic proces, and focuses on incorporating per sonity and emotion into capturing the artist's creativity."
+  },
+  {
+    "paper_id": "P113",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. Multi-Agent Systems Control Using Graph Neural Networks with Model-Based Reinforcement Learning 2. The author's research contribution to the field 3. The purpose of the paper is to understand the complexity of multi-agent systems control utilizing graph neural networks with model-based reinforcement learning 4. The authors hope to integrate this research into the main topics of MAS control. 5. The paper has potential to be used at the International Conference on Multiagency Systems and Pattern Recognition (ICCPR) in the spring of 2014."
+  },
+  {
+    "paper_id": "P014",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "1. The authors' approach and findings align with the conference's focus areas 2. The significance of the research contribution to the field 3. To a conference that is focused on computer vision and pattern recognition"
+  },
+  {
+    "paper_id": "P072",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Evaluating the Resilience of White-Box Defenses Against Adversarial Examples 2. The impact of the paper's findings to the field of machine learning 3. The lack of effectiveness of these defenses in the task of adaptive neural networks."
+  },
+  {
+    "paper_id": "P049",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Improving Model Generalization Using a Single Data Sample for Semantic Adaptation 2. The limitations of deep networks to generalize beyond their training dis- tribution presents ... 3. This research introduces . self-adaptive methodology for semantic segmentation that modifies the inference mechanism to ...."
+  },
+  {
+    "paper_id": "P012",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. The paper is a fuller version of TMLR (Translations on Machine Learning Research) 2. The research contribution to the field 3. The work is likely to be useful in addressing empiricism and bias in the machine learning field"
+  },
+  {
+    "paper_id": "P059",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "1. NeurIPS Conference 2. The implications of the research 3. The conference's focus areas are machine learning, neural networks, and artificial intelligence advances"
+  },
+  {
+    "paper_id": "P061",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. The paper describes the impact of original image utilization in contrastive learning. 2. The impact on the field of machine learning 3. The reliance on data augmentation during repre- sentation learning is a hallmark of these methods. 4. The strong rely on information augmented during supervised learning may cause suboptimal outcomes. 5. It is not the only way to achieve optimum results. 6. It provides the opportunity for enhancing the state of the art in machine Learning. 7. This paper is suitable for the TMLR conference. 8. It offers exemplary findings. 9. Its application to achieving optimal performance in repres- entation-learning is supported by demonstrating an accelerated learning technique. 10. The data"
+  },
+  {
+    "paper_id": "P004",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. A novel concept of training-free graph neural networks 2. The significance of the research contribution to the field 3. The relevance of this work to TMLR"
+  },
+  {
+    "paper_id": "P089",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Precise Requirements for the Validity of the Neural Tangent Kernel Approximation Abstract 2. The relevance of this research to the field 3. The purpose of TMLR is to foster the use of empirical validation for machine learning research 4. The quality of science and literature 5. The need to improve the quality and scalability of evidence for efficient machine training 6. To optimize the likelihood of effective machine modelling 7. To improve models for training. 8. To build a machine that performs computation tasks. 9. To validate the neural tangent kernel. 10. To evaluate the probability distribution of machine Learning."
+  },
+  {
+    "paper_id": "P058",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "1. Enhanced Vocabulary Handling in Recurrent Neural Networks Through Positional Encoding 2. A counterintuitive discovery 3. The conference's focus areas are: Positionale encoding, positional coding is well-known for its crucial role in enabling Transformer networks to process sequential data, its application to RNNs, which inherently manage temporal information, seems unn"
+  }
+]

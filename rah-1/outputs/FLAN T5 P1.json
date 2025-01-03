@@ -1,0 +1,812 @@
+[
+  {
+    "paper_id": "P062",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper explores the adaptation of large pretrained models to new tasks while preserving their inherent equivariance properties. Equivariace, the property of a model\u2019s output changing predictably with transformations of its input, is crucial for many applications, particularly in domains with inherent simmetries such as image processing and physics simulations. However, standard adaptation techniques often disrupt this crucial pr..."
+  },
+  {
+    "paper_id": "P126",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "A novel algorithm for accurately estimating the causal effect of treatment on outcomes in linear Structural Causal Models (SCMs) when latent confounders are present."
+  },
+  {
+    "paper_id": "P068",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "This paper will be of interest to theoretical engineers and theoretical physicists."
+  },
+  {
+    "paper_id": "P008",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "We find a new mechanism for generating equivariant pretrained model- based transfer learning with CoT."
+  },
+  {
+    "paper_id": "P064",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Flow-based Feature Fusion for Collaborative 3D Object Detection"
+  },
+  {
+    "paper_id": "P121",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "The purpose of this research is to address the phenomenon of plasticity loss in deep reinforcement learning agents, where neural networks lose their ability to learn effectively over time. This persistent challenge significantly hinders the long-term performance and adaptability of RL agents in dynamic environments. Existing approaches often rely on architectural modifications or hyperparameter tuning, which can be computationally expensive."
+  },
+  {
+    "paper_id": "P018",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "The objective of this research is to address the phenomenon of plasticity loss in deep reinforcement learning agents, where neural networks lose their ability to learn effectively over time. This persistent challenge significantly hinders the long-term performance and adaptability of RL agents in dynamic environments."
+  },
+  {
+    "paper_id": "P024",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "This paper investigates the feasibility and effectiveness of label-only backdoor attacks in machine learning. In these attacks, adversaries corrupt only the training labels, without modifying the input data (e.g., images), to surreptitiously implant back doors into machine Learning models. We introduce FLIP (Flipping Labels to Inject Poison), a novel label - only back door attack mechanism designed to exploit vul..."
+  },
+  {
+    "paper_id": "P116",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "We propose a generalization called Top-k which aims to increase the accuracy and scalability of decision tree algorithms."
+  },
+  {
+    "paper_id": "P090",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "Equivariant Fine-Tuning of Large Pretrained Models"
+  },
+  {
+    "paper_id": "P041",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P016",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P038",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Graph neural networks (GNNs) for Predicting Caffeine Diffusion Patterns in Holographically Prepared Espresso Foam introduce a groundbreaking approach to understanding complex diffusion behaviors. By leveraging GNNs, researchers can accurately predict the diffusion of caffeine molecules through the intricate structure of espresso foam, revealing patterns that align with the ha..."
+  },
+  {
+    "paper_id": "P081",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P132",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "The first-ever 'perfect crumb' in sourdough bread is achieved by using multi-modal transformers."
+  },
+  {
+    "paper_id": "P130",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "BERT-based analysis of humanoid punchlines to elucidate the complex interplay between artificial humor and human emotional responses"
+  },
+  {
+    "paper_id": "P078",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P022",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P026",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Exploring Bioacoustic Soundscapes with Generative Adversarial Networks: Investigating Novel Audio Stimuli for Enhanced Engagement"
+  },
+  {
+    "paper_id": "P033",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "We present a transition-based AMR parser that directly generates ARM parses from plain text. We use Stack-LSTMs to represent our parson state and make decisions greedily. In our experiments, we show that our Parse achieves very competitive scores on English using only AMRI training data."
+  },
+  {
+    "paper_id": "P125",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "We present DISCOSENSE, a benchmark for commonsense reasoning via un- derstanding d- rstanding of linguistics."
+  },
+  {
+    "paper_id": "P133",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "Reducing discontinuous parsing to sequence labeling"
+  },
+  {
+    "paper_id": "P028",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "Identifying ambiguous sentences using a multimodal corpus of linguistic context"
+  },
+  {
+    "paper_id": "P118",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A cross-lingual neural part-of-speech tagger that learns from disparate sources of distant supervision."
+  },
+  {
+    "paper_id": "P048",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P039",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P069",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P070",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P077",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P134",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P047",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P027",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "The paper aims to improve the way that people understand Unicode emojis."
+  },
+  {
+    "paper_id": "P129",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P105",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P043",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P036",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P032",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P073",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P097",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P086",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P094",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P128",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "We adapt a span-based entity coreference model to the task of end-to-end discourse deixis resolution in dialogue, specifically by proposing extensions to their model that exploit task-specific characteristics. The resulting model, dd-utt, achieves state-of-the-art results on the four datasets."
+  },
+  {
+    "paper_id": "P104",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "A framework to improve the accuracy and consistency of pre-trained language models."
+  },
+  {
+    "paper_id": "P031",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A graph neural network is a technique used to identify speech that is of disproportionate intensity toward Islam."
+  },
+  {
+    "paper_id": "P102",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A Large-Scale Car Dataset for Fine-Grained Categorization and Verification"
+  },
+  {
+    "paper_id": "P002",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P080",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "Large language models are a promising, but controversial tool in aiding scientific peer review. This study evaluates the usefulness of LLMs in  ..."
+  },
+  {
+    "paper_id": "P100",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P053",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P023",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper is a theoretical framework for the reversible hierarchy theory of attention."
+  },
+  {
+    "paper_id": "P056",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P066",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "We propose a new method for model compression that relies on vocabulary transfer. We evaluate the method on various vertical domains and downstream tasks. Our results indicate that vocabulary transfers can be effectively used in combination with other compression techniques, yielding ..."
+  },
+  {
+    "paper_id": "P096",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P119",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P075",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A meta-analysis of video-script alignment features with GRU to enhance multi-step inference."
+  },
+  {
+    "paper_id": "P050",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper is a case study of recurrent and attention-based neural models."
+  },
+  {
+    "paper_id": "P074",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "We propose our solution to the third Agriculture-Vision Challenge."
+  },
+  {
+    "paper_id": "P007",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper proposes the first end-to-end discourse parser that joins a network of lexical and text encodings in eloquent language."
+  },
+  {
+    "paper_id": "P045",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A handful of visual foundation models (VFMs) have recently emerged as the backbones for numerous downstream tasks. VFM like are trained with distinct objectives, exhibiting unique characteristics for various downstream..."
+  },
+  {
+    "paper_id": "P013",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "A method for understanding language data."
+  },
+  {
+    "paper_id": "P060",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "Background Modeling Using Adaptive Pixelwise Kernel Variances in a Hybrid Feature Space"
+  },
+  {
+    "paper_id": "P110",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "LIDA: Lightweight Interactive Dialogue Annotator"
+  },
+  {
+    "paper_id": "P087",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "We present a framework for jointl [...]"
+  },
+  {
+    "paper_id": "P005",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This research introduces a comprehensive clothing co-parsing system designed to analyze  ..."
+  },
+  {
+    "paper_id": "P067",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A new Python API, incorporated within the NLTK library, that facilitates access to the FrameNet 1.7 lexical database."
+  },
+  {
+    "paper_id": "P017",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A new approach to detecting video highlights with time-synchronized comments."
+  },
+  {
+    "paper_id": "P029",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A new open source multimodal systems"
+  },
+  {
+    "paper_id": "P051",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This research introduces a method for real-time unsupervised domain adaptation that can be applied incrementally as new information arrives. This method is especially useful when conventional batch DA is unfeasible. Through evaluations focused on part-of-speech (POS) tagging, we observe that real - time unsupervised da achieves accuracy levels on par with those of batch (batch) da.1 Introduction Unsupervised doma..."
+  },
+  {
+    "paper_id": "P071",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "A qualitative study of the role of fillers in textual representations of speech transcripts."
+  },
+  {
+    "paper_id": "P108",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper provides an overview of completed and ongoing experiments utilizing phonological representations, derived from typological databases, in speech processing tasks. It primarily focuses on two lines of inquiry motivated by the need to adapt speech technologies to low- resource languages an..."
+  },
+  {
+    "paper_id": "P123",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This research delves into the application of a vast collection of emoticon occurrences to acquire versatile representations applicable to diverse domains for the purpose of identification of sentiment, emotion, and sarcasm. Natural Language Processing tasks frequently encounter limitations due to the deficiency of manually labeled data. In the realm of social media sentiment analysis and associated t..."
+  },
+  {
+    "paper_id": "P001",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Clustering Techniques for Enhanced Drone Monitoring and Position Estimation"
+  },
+  {
+    "paper_id": "P020",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper presents a novel approach to 3D protein structure prediction, leveraging bespoke ensemble of convolutional neural networks and recurrent neural networking to capturate complex biomolecules."
+  },
+  {
+    "paper_id": "P003",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "The paper provides a framework for explaining the origins of Reinforcement Learning in financial market simulation. It combines Reinforcing Learning with Adaptive Trading Agents in X-Economic Planning."
+  },
+  {
+    "paper_id": "P098",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Blockchain-based carbon trading platforms have emerged as a revolutionary tool for mitigating climate change by facilitating the exchange of carbon credits. This innovative approach leverages the security, transparency, and immutability of blockchain technology to ensure the integrity of Carbon trading transactions. By utilizing smart contracts, these platforms automate the process of [...]"
+  },
+  {
+    "paper_id": "P124",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Predictive maintenance in smart grids utilizing time-series analysis: a multidisciplinary approach to enhance grid reliability"
+  },
+  {
+    "paper_id": "P035",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A Novel Approach to Harnessing the Power of the Crowd in Last-Mile Logistics"
+  },
+  {
+    "paper_id": "P106",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Next-Generation Brain-Computer Interfaces for Assistive Devices is a burgeoning field that seeks to revolutionize the way individuals with disabilities interact with their environment. This paper presents ..."
+  },
+  {
+    "paper_id": "P076",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Sustainable urban transportation with autonomous vehicles: A Novel Approach to Redefining the Future of Mobility"
+  },
+  {
+    "paper_id": "P107",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper focuses on the development of neural models of weather forecasting."
+  },
+  {
+    "paper_id": "P006",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P037",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A Chinese Span-Extraction Dataset for Machine Reading Compprehension"
+  },
+  {
+    "paper_id": "P120",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper introduces diagNNose, an open-source toolkit designed for the examination of activations within deep neural networks. Detection of neural network activation is a key issue that needs to be addressed in future work. This document introduced docNNas, i.e., the DIAGNOSE tool."
+  },
+  {
+    "paper_id": "P088",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "The study of functional modules is the first to attempt to define the role of the neural network in the study."
+  },
+  {
+    "paper_id": "P099",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "The paper combines two language models with a distributed semantics framework for video description."
+  },
+  {
+    "paper_id": "P065",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A framework to measure the stability of stable diffusion in a recursive inpainting scenario."
+  },
+  {
+    "paper_id": "P091",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "A novel form of user-generated text, specifically call center conversations, presents unique challenges, blending the complexities of spontaneous speech with issues specific to conversational Automatic Speech Recognition (ASR)"
+  },
+  {
+    "paper_id": "P015",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A summary of the challenges faced in the domain of Autonomous Driving"
+  },
+  {
+    "paper_id": "P092",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "The methods for improving image compression are given, and the results are compared to benchmarks for improved compression, compression optimization and compression technologies."
+  },
+  {
+    "paper_id": "P111",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "Bayesian optimization is a widely used technique for the global optimization of costly black-box functions. However, many real-world scenarios involve functions that are not entirely black - box. These functions may possess known structures, such as symmetries, or the data generation process might be ..."
+  },
+  {
+    "paper_id": "P044",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A comprehensive multimodal dataset for climate-conscientious prediction of crop yields."
+  },
+  {
+    "paper_id": "P117",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "Image-word analogies are effective at encapsulating subtle linguistic patterns through linear vector displacements."
+  },
+  {
+    "paper_id": "P025",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper introduces a unique approach to scene parsing that is nonparametric, which enhances the precision and expands its scope of foreground categories within images of scenes. Initially, the accuracy of label likelihood at the superpixel level is improved by combining likelihood scores from multiple probabilistic classifiers. This method improves classification accurac..."
+  },
+  {
+    "paper_id": "P011",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Online controlled experiments, commonly referred to as A/B testing, are widely used in many Internet companies for data-driven decision-making regarding feature modifications and product releases. However, a significant challenge remains in methodically evaluating how each code or feature change affects millions of users who exhibit considerable heterogeneity across various dimensions s..."
+  },
+  {
+    "paper_id": "P034",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "Dual PatchNorm is a modification for Vision Transformers that incorporates two Layer Normalization layers (LayerNorms) positioned before and after the patch embedding layer. The effectiveness of Dual patchNorm compared to alternative LayerNorm placement strategies within the Transformer block, as determined through extensive testing."
+  },
+  {
+    "paper_id": "P009",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "Using random feature approximations for scalable, online aggregation of Gaussian processes"
+  },
+  {
+    "paper_id": "P127",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "A systematic review of the impact of machine learning on privacy."
+  },
+  {
+    "paper_id": "P093",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "Deep Image Prior (DIP) and its variations have demonstrated significant promise in addressing inverse problems in computational imaging, without the need for separate training data. Often, practical DIP models are significantly overparameterized. These models initially capture the intended visual content during the learning phase and subsequently incorporate potential modeling and observational noise, demonstrating a pattern of initial..."
+  },
+  {
+    "paper_id": "P030",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A new framework for the semantics of dynamic shapes."
+  },
+  {
+    "paper_id": "P019",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A tool for the development of TB-positive interventions"
+  },
+  {
+    "paper_id": "P122",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Short-Term Forecasting of Precipitation Using Satellite Data"
+  },
+  {
+    "paper_id": "P021",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "The 2021 Shifts Challenge is a competition for vehicular motion prediction."
+  },
+  {
+    "paper_id": "P040",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper introduces a versatile and flexible approximation model. This model is designed for the near real-time prediction of steady turbulent flow within ..."
+  },
+  {
+    "paper_id": "P082",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper presents the Disentanglement-PyTorch library, which has been devel- oped to assist in the research, application, and assessment of novel variational algorithms."
+  },
+  {
+    "paper_id": "P085",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper examines the present methods for quantifying the level of privacy protection offered by tabular synthetic data (SD). Currently, there is no standardized approach for measuring the degree of Privacy Protection these datasets offer. This discussion contributes to the development of SD privacy standards, encourages interdisciplinary discourse, and aids SD researchers in making well-informed ch..."
+  },
+  {
+    "paper_id": "P010",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "Enhanced Reinforcement Learning for Recommender Systems: Maximizing Sample Efficiency and Minimising Variance"
+  },
+  {
+    "paper_id": "P046",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "A new approach to adversarial attacks that has been used in deep learning."
+  },
+  {
+    "paper_id": "P083",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "A Comparison of Citation Patterns Between Asian and American Research Communities at a Unified Universitetat"
+  },
+  {
+    "paper_id": "P063",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "Using Hierarchical Distributed Representation in Neural Networks Across Datasets and Tasks"
+  },
+  {
+    "paper_id": "P115",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "An Examination of Expansive Multimodal Models: Insights from an Educational Overview"
+  },
+  {
+    "paper_id": "P079",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "We introduce OmniPrint, a synthetic data generator for isolated printed characters designed to support machine learning research. While being inspired by popular datasets, such as MNIST, MNHN, and Omniglot, Omniprint provides the unique ability to produce ..."
+  },
+  {
+    "paper_id": "P135",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "Distributed stochastic variational inequalities"
+  },
+  {
+    "paper_id": "P084",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A review of the \"Hard-Won Lesson\": Two Decades of Research Insights"
+  },
+  {
+    "paper_id": "P103",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper addresses the critical need for effective methods to translate natural language descriptions into executable command-line instructions."
+  },
+  {
+    "paper_id": "P042",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "TMLR Abstract This paper introduces a novel semantic similarity metric designed for image registration evaluation. Current metrics, such as Euclidean distance or normalized cross-correlation, primarily focus on aligning intensity values, which presents challenges when deal- ing with low contrast or noise. Our approach utilizes learned, dataset-specific features to guide the optimization of learning-based registration models. In com- parisons with e..."
+  },
+  {
+    "paper_id": "P131",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "A study on the 2019 Disentanglement Challenge"
+  },
+  {
+    "paper_id": "P109",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "We propose a deep ensemble of visual-linguistic Transformers that can identify hate speech in lexical and verbal contexts."
+  },
+  {
+    "paper_id": "P055",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "The purpose of this paper is to explore how a new requirement for impact statements relates to ethics in the field of AI research."
+  },
+  {
+    "paper_id": "P057",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "The paper's main contribution and methodology are described below:"
+  },
+  {
+    "paper_id": "P052",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "A Genetic Programming Approach for Automated Future Trading Signal Generation"
+  },
+  {
+    "paper_id": "P101",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper presents a methodology for identifying disease characteristics from medical imaging data using 3D volumes, which have weak annotations. This approach converts 3d volumes into sequences of 2D images. We show the efficacy of our method when detecting emphysemas using low-dose CT images taken from lung cancer screenings using convolutional long short-terrence (LSTM) networks."
+  },
+  {
+    "paper_id": "P112",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Our approach is to combine structural and contextual information with k-mer embeddings for the first time."
+  },
+  {
+    "paper_id": "P054",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "3D Food Modeling from Images: Advancements in Physically-Aware Reconstruction"
+  },
+  {
+    "paper_id": "P095",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "Achieving Sample-Efficient Minecraft Gameplay through Hierarchical Reinforcement Learning"
+  },
+  {
+    "paper_id": "P114",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "The model is modeled by neural network neural networks in order to understand per- sonality and emotions in the painting process."
+  },
+  {
+    "paper_id": "P113",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "We introduce a novel \"GNN for MBRL\" model. This model employs gNs with model-based reinforcement learning to tackle MAS tasks, such as Billiard-Avoidance and Autonomous Driving."
+  },
+  {
+    "paper_id": "P014",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "A novel approach for the ActivityNet Challenge."
+  },
+  {
+    "paper_id": "P072",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "A new approach to the defense of neural networks against adversarial ex- amples."
+  },
+  {
+    "paper_id": "P049",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper introduces a self-adaptive methodology for semantic segmentation that modifies the inference mechanism to ..."
+  },
+  {
+    "paper_id": "P012",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "The authors' observations provide an explanation for the generality of the scaling characteristics of transformers in next-token language prediction."
+  },
+  {
+    "paper_id": "P059",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "Positional encoding improves the learning capabilities of recurrent neural networks."
+  },
+  {
+    "paper_id": "P061",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper explores the use of original images to improve visual representation learning. It demonstrates the ad-hoc nature of this method compared to supervised learning methods."
+  },
+  {
+    "paper_id": "P004",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "TFGNNs are training-free neural networks for transductive node classification, which can function immediately without any training and can optionally be enhanced through subsequent training."
+  },
+  {
+    "paper_id": "P089",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "The neural tangent kernel approximation remains valid under the condition that the square loss function is used as a training parameter."
+  },
+  {
+    "paper_id": "P058",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "The research demonstrates that positional encoding, which can be used in recurrent neural networks to help RNNs learn new words and to improve learning abilities, is a counterintuitive discovery."
+  }
+]
