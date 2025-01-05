@@ -1,0 +1,812 @@
+[
+  {
+    "paper_id": "P062",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Estimating Causal Effects Using a Cross-Moment Method Abstract This paper explores the adaptation of large pretrained models to new tasks while preserving their inherent equivariance properties"
+  },
+  {
+    "paper_id": "P126",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Designing Data Markets Using Deep Learning Technique Abstract The objective of this research is to develop an innovative algorithm for accurately estimating the causal effect of treatment on outcomes in linear Structural Causal Models (SCMs) when latent confounders are present"
+  },
+  {
+    "paper_id": "P068",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "This paper appears relevant to KDD based on its focus on A Unique Approach to Chain-of-Thought Prompting Abstract To address the challenges of temporal asynchrony and limited communication bandwidth in vehicle-infrastructure cooperative 3D (VIC3D) object detection, we introduce Feature Flow Net (FFNet), a novel framework that transmits compressed feature flow rather than raw data or feature maps"
+  },
+  {
+    "paper_id": "P008",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Optimized Transfer Learning with Equivariant Pretrained Models Abstract This research investigates the mechanisms behind Chain-of-Thought (CoT) prompt- ing, a method that enhances language models\u2019 performance on complex reasoning tasks by decomposing them into simpler steps"
+  },
+  {
+    "paper_id": "P064",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Flow-Based Feature Fusion for Collaborative 3D Object Detection Abstract The goal of this paper is to empower open-source large language models (LLMs) such as LLaMA, Vicuna, and OPT to effectively utilize multi-modal tools for tasks involving visual comprehension and image generation"
+  },
+  {
+    "paper_id": "P121",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "This paper appears relevant to KDD based on its focus on GPT4Tools: Reimagining LLMs as Helpers Abstract The objective of this research is to address the phenomenon of plasticity loss in deep reinforcement learning (RL) agents, where neural networks lose their ability to learn effectively over time"
+  },
+  {
+    "paper_id": "P018",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "This paper appears relevant to KDD based on its focus on Enhancing Deep Reinforcement Learning with Plasticity Mechanisms Abstract The objective of this research is to address the phenomenon of plasticity loss in deep reinforcement learning (RL) agents, where neural networks lose their ability to learn effectively over time"
+  },
+  {
+    "paper_id": "P024",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "This paper appears relevant to KDD based on its focus on Turning the Tables: Exploring Subtle Vulnerabilities in Machine Learning Model Abstract This paper investigates the feasibility and effectiveness of label-only backdoor attacks in machine learning"
+  },
+  {
+    "paper_id": "P116",
+    "publishable": 1,
+    "conference": "KDD",
+    "rationale": "This paper appears relevant to KDD based on its focus on Improving Random Forests through Random Splitting Abstract To enhance the accuracy and scalability of decision tree algorithms, we introduce a generalization called Top-k"
+  },
+  {
+    "paper_id": "P090",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Equivariant Fine-Tuning of Large Pretrained Models Abstract This paper explores the adaptation of large pretrained models to new tasks while preserving their inherent equivariance properties"
+  },
+  {
+    "paper_id": "P041",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P016",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P038",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is relevant to CVPR because technical contributions"
+  },
+  {
+    "paper_id": "P081",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P132",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is relevant to CVPR because <s>What specific technical contributions make this paper relevant to CVPR?</s></s>Paper Title: Analyzing Fermentation Patterns with Multi-Modal Transformers: A Novel Framework for Improved Bread-Baking Outcomes Abstract This study presents a groundbreaking approach to achieving the elusive \u2019perfect crumb\u2019 in sourdough bread by harnessing the power of multi-modal transformers to analyze the complex microbiomes present in sourdough starters\nAbstract:  By integrating microbial genome sequencing data, high-resolution images of bread crumb struc- tures, and audio recordings of dough mixing patterns, our model is able to identify previously unknown correlations between microbial community composition and bread texture  Surprisingly, our results indicate that the inclusion of a specially de- signed playlist of ambient electronic music during the dough fermentation process can significantly enhance the development of a desirable crumb structure, with an observed increase in crumb symmetry of up to 37\n\nConference Information: CVPR is a premier computer vision conference focusing on visual processing, recognition, understanding, and generation.\n\nA paper is relevant to a conference if its technical contributions and research focus align with the conference's main themes. if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas"
+  },
+  {
+    "paper_id": "P130",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is relevant to CVPR because if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas"
+  },
+  {
+    "paper_id": "P078",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P022",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P026",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is relevant to CVPR because <s>What specific technical contributions make this paper relevant to CVPR?</s></s>Paper Title: Exploring Bioacoustic Soundscapes with Generative Adversarial Networks: Investigating Novel Audio Stimuli for Enhanced Engagement Abstract This study explores the unconventional application of Generative Adversarial Networks (GANs) in translating whale song into hypnotic trance music, with the ultimate goal of enhancing human creativity through a psychoacoustic approach\nAbstract:  By leveraging the unique acoustic properties of whale vocalizations, we aim to create a novel framework for music generation that not only replicates the mesmerizing qualities of whale songs but also induces a state of deep relaxation and heightened imagination in human listeners  Our research reveals that the incorporation of whale song patterns into trance music can lead to unexpected outcomes, including improved focus, enhanced problem-solving skills, and even purported instances of telepathic communication among participants\n\nConference Information: CVPR is a premier computer vision conference focusing on visual processing, recognition, understanding, and generation.\n\nA paper is relevant to a conference if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas. if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas"
+  },
+  {
+    "paper_id": "P033",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on AMR Parsing using Stack-LSTMs Abstract We present a transition-based AMR parser that directly generates AMR parses from plain text"
+  },
+  {
+    "paper_id": "P125",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on DISCOSENSE: Commonsense Reasoning with Discourse Connectives Abstract We present DISCOSENSE, a benchmark for commonsense reasoning via un- derstanding a wide variety of discourse connectives"
+  },
+  {
+    "paper_id": "P133",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Discontinuous Constituent Parsing as Sequence Labeling Abstract This paper reduces discontinuous parsing to sequence labeling"
+  },
+  {
+    "paper_id": "P028",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on Do You See What I Mean? Visual Resolution of Linguistic Ambiguities Abstract Understanding language goes hand in hand with the ability to integrate com- plex contextual information obtained via perception"
+  },
+  {
+    "paper_id": "P118",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Distant Supervision from Disparate Sources for Low-Resource Part-of-Speech Tagging Abstract We introduce DSDS: a cross-lingual neural part-of-speech tagger that learns from disparate sources of distant supervision, and realistically scales to hundreds of low- resource languages"
+  },
+  {
+    "paper_id": "P048",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P039",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P069",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P070",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P077",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P134",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P047",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P027",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper is relevant to EMNLP because technical contributions"
+  },
+  {
+    "paper_id": "P129",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P105",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P043",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P036",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P032",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P073",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P097",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P086",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P094",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P128",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on End-to-End Neural Discourse Deixis Resolution in Dialogue Abstract We adapt a span-based entity coreference model to the task of end-to-end discourse deixis resolution in dialogue, specifically by proposing extensions to their model that exploit task-specific characteristics"
+  },
+  {
+    "paper_id": "P104",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference Abstract While large pre-trained language models are powerful, their predictions often lack logical consistency across test inputs"
+  },
+  {
+    "paper_id": "P031",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Explainable Identification of Hate Speech towards Islam using Graph Neural Networks Abstract Islamophobic language on online platforms fosters intolerance, making detection and elimination crucial for promoting harmony"
+  },
+  {
+    "paper_id": "P102",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on A Large-Scale Car Dataset for Fine-Grained Categorization and Verification Abstract This paper aims to highlight vision related tasks centered around \u201ccar\u201d, which has been largely neglected by vision community in comparison to other objects"
+  },
+  {
+    "paper_id": "P002",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P080",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on Usefulness of LLMs as an Author Checklist Assistant for Scientific Papers: Experiment Abstract Large language models (LLMs) represent a promising, but controversial, tool in aiding scientific peer review"
+  },
+  {
+    "paper_id": "P100",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P053",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P023",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on A Reverse Hierarchy Model for Predicting Eye Fixations Abstract A number of psychological and physiological evidences suggest that early visual attention works in a coarse-to- fine way, which lays a basis for the reverse hierarchy theory (RHT)"
+  },
+  {
+    "paper_id": "P056",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P066",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Fast Vocabulary Transfer for Language Model Compression Abstract Real-world business applications require a trade-off between language model performance and size"
+  },
+  {
+    "paper_id": "P096",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P119",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P075",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Equivariant Adaptation of Large Pretrained Models Abstract This paper explores the adaptation of video alignment to improve multi-step infer- ence"
+  },
+  {
+    "paper_id": "P050",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on Interpreting Recurrent and Attention-Based Neural Models: a Case Study on Natural Language Inference Abstract Deep learning models have achieved remarkable success in natural language in- ference (NLI) tasks"
+  },
+  {
+    "paper_id": "P074",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Agriculture-Vision Challenge 2022 \u2013 The Runner-Up Solution for Agricultural Pattern Recognition via Transformer-based Models Abstract This paper explores the adaptation The Agriculture-Vision Challenge is one of the most famous and competitive challenges for global researchers to break the boundary between computer vision and agriculture sectors, aiming at agricultural pattern recognition from aerial images"
+  },
+  {
+    "paper_id": "P007",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on Joint Syntacto-Discourse Parsing and the Syntacto-Discourse Treebank Abstract Discourse parsing has long been treated as a stand-alone problem independent from constituency or dependency parsing"
+  },
+  {
+    "paper_id": "P045",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on AM-RADIO: Agglomerative Vision Foundation Model Reduce All Domains Into One Abstract A handful of visual foundation models (VFMs) have recently emerged as the backbones for numerous downstream tasks"
+  },
+  {
+    "paper_id": "P013",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Learning Explanations from Language Data Abstract PatternAttribution is a recent method, introduced in the vision domain, that explains classifications of deep neural networks"
+  },
+  {
+    "paper_id": "P060",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Background Modeling Using Adaptive Pixelwise Kernel Variances in a Hybrid Feature Space Abstract Recent work on background subtraction has shown developments on two major fronts"
+  },
+  {
+    "paper_id": "P110",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on LIDA: Lightweight Interactive Dialogue Annotator Abstract Dialogue systems are highly dependent on the quality of the data used to train them"
+  },
+  {
+    "paper_id": "P087",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Subspace Constraint Method of Feature Tracking Abstract Feature tracking in video is a crucial task in computer vision"
+  },
+  {
+    "paper_id": "P005",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Collaborative Clothing Segmentation and Identification Through Image Analysis Abstract This research introduces a comprehensive clothing co-parsing system designed to analyze a collection of clothing images, which are unsegmented but include descriptive tags"
+  },
+  {
+    "paper_id": "P067",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on API with a Rich Linguistic Resource Abstract This paper introduces a novel Python API, incorporated within the NLTK library, that facilitates access to the FrameNet 1"
+  },
+  {
+    "paper_id": "P017",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Detecting and Summarizing Video Highlights with Lag-Calibration Abstract The increasing popularity of video sharing has led to a growing need for automatic video analysis, including highlight detection"
+  },
+  {
+    "paper_id": "P029",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on OpenOmni: An Open-Source Multimodal Systems Abstract Multimodal conversational systems are increasingly sought after for their ability to facilitate natural and human-like interactions"
+  },
+  {
+    "paper_id": "P051",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Real-Time Adaptation of Lexical Embeddings for Enhanced Part-of-Speech Tagging Abstract This research introduces a method for real-time unsupervised domain adaptation (DA) that can be applied incrementally as new information arrives"
+  },
+  {
+    "paper_id": "P071",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on The Significance of Fillers in Textual Representations of Speech Transcripts Abstract This paper investigates the role of fillers within text-based representations of speech transcripts"
+  },
+  {
+    "paper_id": "P108",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Progress Towards Eliciting Organized Phoneme Structures Abstract Phonological typology, a vital area within linguistic studies, examines the patterns and functions of sounds across the world\u2019s languages"
+  },
+  {
+    "paper_id": "P123",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper is relevant to EMNLP because technical contributions"
+  },
+  {
+    "paper_id": "P001",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Leveraging Clustering Techniques for Enhanced Drone Monitoring and Position Estimation Abstract Drone tracking and localization are essential for various applications, including managing drone formations and implementing anti-drone strategies"
+  },
+  {
+    "paper_id": "P020",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper is relevant to NeurIPS because if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas"
+  },
+  {
+    "paper_id": "P003",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Explainable Reinforcement Learning for Financial Market Simulation: Unveiling the Mysteries of Adaptive Trading Agents in a Simulated Economy Abstract Explainable reinforcement learning has emerged as a crucial tool for financial market simulation, enabling stakeholders to understand complex decision-making processes and make informed investment choices"
+  },
+  {
+    "paper_id": "P098",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Blockchain-Based Carbon Trading Platforms: A Novel Approach to Mitigating Climate Change Abstract Blockchain-based carbon trading platforms have emerged as a revolutionary tool for mitigating climate change by facilitating the exchange of carbon credits"
+  },
+  {
+    "paper_id": "P124",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is relevant to CVPR because <s>What specific technical contributions make this paper relevant to CVPR?</s></s>Paper Title: Predictive Maintenance in Smart Grids Using Time-Series Analysis: A Multidisciplinary Approach to Enhance Grid Reliability Abstract Predictive maintenance in smart grids has become a crucial aspect of ensuring reliable and efficient energy distribution, and time-series analysis has emerged as a key approach in achieving this goal\nAbstract:  By leveraging advanced statistical and machine learning techniques, it is possible to analyze historical data and predict potential faults or failures in the grid, allowing for proactive maintenance and minimizing downtime  However, our research takes an unconventional approach by incorporating elements of chaos theory and fractal analysis to identify intricate patterns in the time-series data, which may not be immediately apparent through traditional methods\n\nConference Information: CVPR is a premier computer vision conference focusing on visual processing, recognition, understanding, and generation.\n\nA paper is relevant to a conference if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas. if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas"
+  },
+  {
+    "paper_id": "P035",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is relevant to CVPR because <s>What specific technical contributions make this paper relevant to CVPR?</s></s>Paper Title: Game-Theoretic Optimization for Crowdsourced Delivery Networks: A Novel Approach to Harnessing the Power of the Crowd in Last-Mile Logistics Abstract Game-Theoretic Optimization for Crowdsourced Delivery Networks is a burgeon- ing field of research that seeks to improve the efficiency and reliability of delivery systems by leveraging the power of crowdsourced labor\nAbstract:  This approach has the potential to revolutionize the way goods are transported and delivered, particularly in urban areas where traditional delivery methods often struggle to cope with high demand and congested infrastructure  By applying game-theoretic principles to the optimization of crowdsourced delivery networks, researchers can develop more effective and sustainable solutions that balance the needs of multiple stakeholders, including delivery companies, crowdsourced workers, and end customers\n\nConference Information: CVPR is a premier computer vision conference focusing on visual processing, recognition, understanding, and generation.\n\nA paper is relevant to a conference if its technical contributions and research focus align with the conference's main themes. if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas"
+  },
+  {
+    "paper_id": "P106",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Next-Generation Brain-Computer Interfaces for Assistive Devices: Unlocking New Frontiers in Human-Machine Symbiosis Abstract Next-Generation Brain-Computer Interfaces for Assistive Devices is a burgeoning field that seeks to revolutionize the way individuals with disabilities interact with their environment"
+  },
+  {
+    "paper_id": "P076",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is relevant to CVPR because if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas"
+  },
+  {
+    "paper_id": "P107",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is relevant to CVPR because if its technical contributions and research focus align with the conference's main themes. The explanation should describe specific technical aspects of the paper that match the conference's focus areas"
+  },
+  {
+    "paper_id": "P006",
+    "publishable": 0,
+    "conference": "na",
+    "rationale": "na"
+  },
+  {
+    "paper_id": "P037",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on A Chinese Span-Extraction Dataset for Machine Reading Comprehension Abstract This paper introduces a novel dataset for Chinese machine reading comprehension, focusing on span extraction"
+  },
+  {
+    "paper_id": "P120",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on A Toolkit for Scrutinizing Neural Network Activations Abstract This document introduces diagNNose, an open-source toolkit designed for the examination of activations within deep neural networks"
+  },
+  {
+    "paper_id": "P088",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Analyzing Groups of Neurons in Neural Networks: Comparing Information from Input and Output Perspectives Abstract The concept of a \"modular\" structure in artificial neural networks has been suggested as beneficial for learning, the ability to combine elements, and applying knowledge to new situations"
+  },
+  {
+    "paper_id": "P099",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Enhancing LSTM-based Video Narration Through Text-Derived Linguistic Insights Abstract This study delves into how linguistic understanding, extracted from extensive text datasets, can be leveraged to enhance the generation of natural language video descriptions"
+  },
+  {
+    "paper_id": "P065",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Assessing the Stability of Stable Diffusion in a Recursive Inpainting Scenario Abstract Generative Artificial Intelligence models for image generation have demonstrated remarkable capabilities in tasks like text-to-image synthesis and image completion through inpainting"
+  },
+  {
+    "paper_id": "P091",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on An Investigation into Named Entity Recognition for Call Center Transcripts to Ensure Privacy Law Compliance Abstract This study explores the application of Named Entity Recognition (NER) on a novel form of user-generated text, specifically call center conversations"
+  },
+  {
+    "paper_id": "P015",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Overview of Challenges in Trajectory Forecasting and 3D Perception for Autonomous Driving Abstract This document provides a summary of the challenges faced in the domain of Autonomous Driving"
+  },
+  {
+    "paper_id": "P092",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Enhanced Image Compression Through Advanced Residual Network Architectures Abstract This manuscript provides an in-depth explanation of the methodology developed for a recent image compression challenge"
+  },
+  {
+    "paper_id": "P111",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Leveraging Deep Learning for Enhanced Bayesian Optimization in Scientific Domains with Complex Structures Abstract Bayesian optimization (BO) is a widely used technique for the global optimization of costly black-box functions"
+  },
+  {
+    "paper_id": "P044",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on A Comprehensive Multimodal Dataset for Climate-Conscious Prediction of Crop Yields Abstract Accurate forecasting of crop yields is crucial for maintaining food security and promoting sustainable agricultural methods"
+  },
+  {
+    "paper_id": "P117",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on Rapid Image Annotation Through Zero-Shot Learning Abstract Recent experiments on word analogies demonstrate that contemporary word vectors effectively encapsulate subtle linguistic patterns through linear vector displace- ments"
+  },
+  {
+    "paper_id": "P025",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Scene Comprehension Through Image Analysis with an Extensive Array of Categories and Context at the Scene Level Abstract This research introduces a unique approach to scene parsing that is nonparametric, which enhances the precision and expands the scope of foreground categories within images of scenes"
+  },
+  {
+    "paper_id": "P011",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Controlling False Discovery Rates in Detecting Heterogeneous Treatment Effects for Online Experiments Abstract Online controlled experiments, commonly referred to as A/B testing, are widely used in many Internet companies for data-driven decision-making regarding feature modifications and product releases"
+  },
+  {
+    "paper_id": "P034",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Enhanced Normalization in Vision Transformers: The Dual PatchNorm Approach Abstract This study introduces Dual PatchNorm, a modification for Vision Transformers that incorporates two Layer Normalization layers (LayerNorms) positioned before and after the patch embedding layer"
+  },
+  {
+    "paper_id": "P009",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Flexible Online Aggregations Using Basis Function Expansions Abstract Bayesian learning often necessitates online inference, adaptive models, and the combination of multiple distinct models"
+  },
+  {
+    "paper_id": "P127",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Examining Machine Learning\u2019s Impact on Personal Privacy Abstract This paper delves into the growing concerns surrounding the use of machine learning and its impact on personal privacy"
+  },
+  {
+    "paper_id": "P093",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Premature Termination Strategy for Deep Image Prior Abstract Deep Image Prior (DIP) and its variations have demonstrated significant promise in addressing inverse problems in computational imaging, without the need for separate training data"
+  },
+  {
+    "paper_id": "P030",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on BladeDISC++: Enhancing Memory Usage Through Symbolic Shape Analysis Abstract The increasing prevalence of dynamic characteristics in modern deep learning tasks has led to the growing importance of dynamic shape compilers"
+  },
+  {
+    "paper_id": "P019",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Acquiring the Ability to Recommend Interventions for Tuberculosis Treatment Through the Utilization of Digital Adherence Information Abstract Digital Adherence Technologies (DATs) are becoming progressively favored as a means of confirming patients\u2019 adherence to various medications"
+  },
+  {
+    "paper_id": "P122",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Short-Term Forecasting of Precipitation Using Satellite Data Abstract Short-range forecasting of rain or snow, known as precipitation nowcasting, is typically displayed on geographical maps by weather services for up to a 2-hour timeframe"
+  },
+  {
+    "paper_id": "P021",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on A Vehicle Motion Prediction Approach for the 2021 Shifts Challenge Abstract This paper details the solution developed for the 2021 Shifts Challenge, which focused on robustness and uncertainty in real-world distributional shifts"
+  },
+  {
+    "paper_id": "P040",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on A 3D Convolutional Neural Network Approach for Sustainable Architectural Design through Computational Fluid Dynamics Simulation and Reverse Design Workflow Abstract This paper introduces a versatile and flexible approximation model"
+  },
+  {
+    "paper_id": "P082",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on A PyTorch-Based Approach for Variational Learning with Disentanglement Abstract This paper presents the Disentanglement-PyTorch library, which has been devel- oped to assist in the research, application, and assessment of novel variational algorithms"
+  },
+  {
+    "paper_id": "P085",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Privacy Evaluation in Tabular Synthetic Data: Current Approaches and Future Directions Abstract This paper examines the present methods for quantifying the level of privacy protection offered by tabular synthetic data (SD)"
+  },
+  {
+    "paper_id": "P010",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Enhanced Reinforcement Learning for Recommender Systems: Maximizing Sample Efficiency and Minimizing Variance Abstract Optimizing long-term user satisfaction in recommender systems, such as news feeds, is crucial during continuous user-system interactions"
+  },
+  {
+    "paper_id": "P046",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Symbiotic Adversarial Robustness for Graph Neural Networks: Combining Poisoning and Evasion Abstract Deep learning models are known to be vulnerable to small input perturbations, which are known as adversarial examples"
+  },
+  {
+    "paper_id": "P083",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on Disparate Citation Patterns Between Chinese and American Research Communities at a Unified Venue Abstract At NeurIPS, there is a tendency for American and Chinese institutions to cite papers from within their own regions substantially more often than they cite papers from the other region"
+  },
+  {
+    "paper_id": "P063",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Representation Transferability in Neural Networks Across Datasets and Tasks Abstract Deep neural networks, which are built from multiple layers with hierarchical distributed representations, tend to learn low-level features in their initial layers and shift to high-level features in subsequent layers"
+  },
+  {
+    "paper_id": "P115",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on An Examination of Expansive Multimodal Models: Insights from an Educational Overview Abstract This document provides a summary of a presentation centered on extensive multi- modal models, specifically their development to a level comparable to and poten- tially exceeding that of multimodal GPT-4"
+  },
+  {
+    "paper_id": "P079",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on OmniPrint: A Configurable Generator for Printed Characters Abstract We introduce OmniPrint, a synthetic data generator for isolated printed characters designed to support machine learning research"
+  },
+  {
+    "paper_id": "P135",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on A Decentralized Local Stochastic Extragradient Approach for Variational Inequalities Abstract This study examines distributed stochastic variational inequalities (VIs) within unbounded domains, where the problem data is heterogeneous, meaning it is non- identically distributed and spread across numerous devices"
+  },
+  {
+    "paper_id": "P084",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper is relevant to CVPR because technical contributions"
+  },
+  {
+    "paper_id": "P103",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Equivariant Adaptation of Large Pretrained Models: A Study on the NLC2CMD Competition Abstract This paper presents an investigation into the challenges of adapting pretrained models, specifically in the context of the NLC2CMD competition"
+  },
+  {
+    "paper_id": "P042",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on DeepSim: A Semantic Approach to Image Registration Evaluation Abstract This paper introduces a novel semantic similarity metric designed for image regis- tration"
+  },
+  {
+    "paper_id": "P131",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Enhancing Disentanglement through Learned Aggregation of Convolutional Feature Maps: A Study on the 2019 Disentanglement Challenge Abstract This paper details our submission for stage 2 of the 2019 disentanglement challenge"
+  },
+  {
+    "paper_id": "P109",
+    "publishable": 1,
+    "conference": "EMNLP",
+    "rationale": "This paper appears relevant to EMNLP based on its focus on Multimodal Deep Ensemble for Hateful Meme Identification Abstract This paper delves into the utilization of machine learning techniques for identify- ing hate speech, while addressing the persisting technical challenges to enhance their performance to match human-level accuracy"
+  },
+  {
+    "paper_id": "P055",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Examining the Initial Experiences of Researchers When Articulating Broader Impact Abstract By mandating a broader impact statement with every submission for this year\u2019s conference, the program chairs at the conference highlighted ethics as a crucial component of AI research"
+  },
+  {
+    "paper_id": "P057",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on A Collaborative Painting Experience: Human-Machine Interaction on Canvas Abstract We introduce a novel approach to human-machine interaction, framed as a pictorial game where artists and a computer collaborate in iterative creative rounds"
+  },
+  {
+    "paper_id": "P052",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Specialized Neural Network for Extracting Financial Trading Signals: The Alpha Discovery Neural Network Abstract Genetic programming (GP) is currently the leading method for automated feature generation in financial applica- tions"
+  },
+  {
+    "paper_id": "P101",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on A Convolutional LSTM Network Approach for Identifying Diseases in Medical Volumetric Images with Limited Annotations Abstract This paper presents a methodology for identifying disease characteristics from medical imaging data using 3D volumes, which have weak annotations"
+  },
+  {
+    "paper_id": "P112",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Learning Genomic Sequence Representations using Graph Neural Networks over De Bruijn Graphs Abstract The rapid increase of genomic sequence data requires new methods for creating ro- bust sequence representations"
+  },
+  {
+    "paper_id": "P054",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on 3D Food Modeling from Images: Advancements in Physically-Aware Reconstruction Abstract The growing focus on computer vision for applications in nutritional monitoring and dietary tracking has spurred the creation of sophisticated 3D reconstruction methods for various food items"
+  },
+  {
+    "paper_id": "P095",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on JueWu-MC: Achieving Sample-Efficient Minecraft Gameplay through Hierarchical Reinforcement Learning Abstract Learning rational behaviors in open-world games such as Minecraft continues to pose a challenge to Reinforcement Learning (RL) research, due to the combined difficulties of partial observability, high-dimensional visual perception, and delayed rewards"
+  },
+  {
+    "paper_id": "P114",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on An Empathetic AI Painter: A System for Computational Creativity Through Embodied Conversational Interaction Abstract This paper presents an investigation into the computational modeling of the creative process of a portrait artist, focusing on the incorporation of human traits like per- sonality and emotions into the artistic process"
+  },
+  {
+    "paper_id": "P113",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Multi-Agent Systems Control Using Graph Neural Networks with Model-Based Reinforcement Learning Abstract Multi-agent systems (MAS) play a crucial role in the advancement of machine intelligence and its applications"
+  },
+  {
+    "paper_id": "P014",
+    "publishable": 1,
+    "conference": "CVPR",
+    "rationale": "This paper appears relevant to CVPR based on its focus on Advancements in Audio-Visual Active Speaker Detection: A Novel Approach for the ActivityNet Challenge Abstract This document outlines our contribution to the ActivityNet Challenge, focusing on active speaker detection"
+  },
+  {
+    "paper_id": "P072",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Evaluating the Resilience of White-Box Defenses Against Adversarial Examples Abstract It is well-established that neural networks exhibit susceptibility to adversarial ex- amples"
+  },
+  {
+    "paper_id": "P049",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Improving Model Generalization Using a Single Data Sample for Semantic Adaptation Abstract The limited capacity of deep networks to generalize beyond their training dis- tribution presents a significant challenge in semantic segmentation"
+  },
+  {
+    "paper_id": "P012",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Harmonizing Scaling Laws: Bridging the Gap Between Kaplan and Chinchilla Abstract Studies by Kaplan et al"
+  },
+  {
+    "paper_id": "P059",
+    "publishable": 1,
+    "conference": "NeurIPS",
+    "rationale": "This paper appears relevant to NeurIPS based on its focus on Large Vocabulary Handling in Recurrent Neural Networks Enhanced by Positional Encoding Abstract This research presents a counterintuitive discovery: positional encoding, a high- dimensional representation of time indices on input data, improves the learning capabilities of recurrent neural networks (RNNs)"
+  },
+  {
+    "paper_id": "P061",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Enhancing Visual Representation Learning Through Original Image Utilization in Contrastive Learning Abstract Contrastive instance discrimination techniques exhibit superior performance in downstream tasks, including image classification and object detection, compared to supervised learning"
+  },
+  {
+    "paper_id": "P004",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Graph Neural Networks Without Training: Harnessing the Power of Labels as Input Features Abstract This study introduces a novel concept of training-free graph neural networks (TFGNNs) for transductive node classification, which can function immediately without any training and can optionally be enhanced through subsequent training"
+  },
+  {
+    "paper_id": "P089",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Precise Requirements for the Validity of the Neural Tangent Kernel Approximation Abstract This research investigates the conditions under which the neural tangent kernel (NTK) approximation remains valid when employing the square loss function for model training"
+  },
+  {
+    "paper_id": "P058",
+    "publishable": 1,
+    "conference": "TMLR",
+    "rationale": "This paper appears relevant to TMLR based on its focus on Enhanced Vocabulary Handling in Recurrent Neural Networks Through Positional Encoding Abstract This research presents a counterintuitive discovery: positional encoding, a high-dimensional representation of temporal indices, improves the learning capabilities of recurrent neural networks (RNNs)"
+  }
+]
